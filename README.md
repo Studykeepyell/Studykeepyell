@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C++ React
 
 - Tech stacks
+
+- 
 [![my skills](https://skillicons.dev/icons?i=js,html,css,electron,docker,express,java,mongodb,nginx,nodejs,npm,py,react,ts,webapck)](https://skillicons.dev)
 <!---
 Studykeepyell/Studykeepyell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
