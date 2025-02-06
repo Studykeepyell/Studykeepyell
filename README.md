@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Studykeepyell
-- 👀 I’m interested in ARVR ML Web dev
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning C++ and CUDA Programming
 
 - Tech stacks
 
